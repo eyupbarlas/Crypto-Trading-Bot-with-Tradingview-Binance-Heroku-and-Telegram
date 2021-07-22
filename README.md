@@ -32,9 +32,12 @@ To build a bot for Telegram, you need to talk to [BotFather](https://telegram.me
 
 To allow webhooks in Tradingview, you need to upgrade your account to Pro version. (A small price to pay for salvation:) )
 
-
 ## Related Links
 ### Inspiration and useful resources:
 * https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
 * https://github.com/Haehnchen/crypto-trading-bot
 * https://algotrading101.com/learn/binance-python-api-guide/
+
+> **Personal Information**
+> 
+>> Eyüp Barlas  eyupbarlas2134@gmail.com
