@@ -1,0 +1,15 @@
+{
+    "token": "your generated token",
+    "time": "{{timenow}}",
+    "exchange": "{{exchange}}",
+    "ticker": "{{ticker}}",
+    "bar": {
+        "time": "{{time}}",
+        "open": {{open}},
+        "high": {{high}},
+        "low": {{low}},
+        "close": {{close}},
+        "volume": {{volume}}
+    },
+    "cross_histogram" : {{plot_2}}
+}
