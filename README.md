@@ -2,7 +2,7 @@
 ## Architecture
 ![Trading Bot Architecture](https://user-images.githubusercontent.com/72407947/126675086-99f049dc-3e4c-41f1-92b7-7cca4612ab0a.png)
 ## About Project
-  ***Work in progress.*** This bot does automated trading operations with Binance. You need a Binance account to start trading. Then when you connect the API keys, trading will be automated using the real time data provided by Tradingview webhooks. You need to pick a indicator and set alerts. The bot will do the trading for you. After each operation, you'll get notifications via Telegram. Crypto trading is highly volatile. This project doesn't possess any trading advise. Trade carefully.
+  ***Work in progress.*** This bot does automated trading operations with Binance. You need a Binance account to start trading. Then when you connect the API keys, trading will be automated using the real time data provided by Tradingview webhooks. You need to pick an indicator and set alerts. The bot will do the trading for you. After each operation, you'll get notifications via Telegram. Crypto trading is highly volatile. This project doesn't possess any trading advise. Trade carefully.
 ## Features
 * Real time data from Tradingview using webhooks
 * Automated market buy and sell operations.
