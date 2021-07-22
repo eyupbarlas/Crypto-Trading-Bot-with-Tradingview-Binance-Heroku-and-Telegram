@@ -41,3 +41,4 @@ To allow webhooks in Tradingview, you need to upgrade your account to Pro versio
 > **Personal Information**
 > 
 >> Eyüp Barlas  eyupbarlas2134@gmail.com
+>> For more projects, [click here](https://github.com/eyupbarlas "my repos").
