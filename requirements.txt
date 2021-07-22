@@ -1,0 +1,4 @@
+flask
+python-binance
+gunicorn
+twisted
