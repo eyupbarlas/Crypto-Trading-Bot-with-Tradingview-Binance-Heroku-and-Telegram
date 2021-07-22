@@ -34,7 +34,7 @@ To allow webhooks in Tradingview, you need to upgrade your account to Pro versio
 
 
 ## Related Links
-### Inspiration and useful resources
+### Inspiration and useful resources:
 * https://github.com/hackingthemarkets/tradingview-binance-strategy-alert-webhook
 * https://github.com/Haehnchen/crypto-trading-bot
 * https://algotrading101.com/learn/binance-python-api-guide/
