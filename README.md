@@ -23,6 +23,7 @@ pip install Flask
 #### Useful terminal commands after deployment:
 * After making a change on production: `git add .` + `git commit -am "your message"`
 * Pushing the app to the cloud: `git push heroku master`
+* Checking for logs: `heroku logs --tail`
 
 ### Setting Up Telegram Bot
 To build a bot for Telegram, you need to talk to [BotFather](https://telegram.me/botfather "BotFather") and follow the simple steps. He will give you a token to start a chat with your bot. 
